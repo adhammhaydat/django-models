@@ -1,0 +1,7 @@
+*{box-sizing: none; }
+    
+body {
+    display: grid;
+    grid-template-rows: 100px auto;
+    gap: 5rem;
+}
